@@ -1,0 +1,20 @@
+name: c3d
+dependencies:
+- python=3.7
+- pip
+- jupyter
+- matplotlib
+- pandas
+- numpy
+- tensorflow = 2.0
+- tensorflow-estimator
+- keras
+- keras-applications
+- keras-preprocessing
+- sk-video
+- ffmpeg
+- cython
+- scikit-image
+- pip:
+  - pillow
+  - scipy
